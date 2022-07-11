@@ -1,0 +1,7 @@
+C:\Users\vitalya\source\repos\home5\bin\Debug\home5.exe.config
+C:\Users\vitalya\source\repos\home5\bin\Debug\home5.exe
+C:\Users\vitalya\source\repos\home5\bin\Debug\home5.pdb
+C:\Users\vitalya\source\repos\home5\obj\Debug\home5.csproj.AssemblyReference.cache
+C:\Users\vitalya\source\repos\home5\obj\Debug\home5.csproj.CoreCompileInputs.cache
+C:\Users\vitalya\source\repos\home5\obj\Debug\home5.exe
+C:\Users\vitalya\source\repos\home5\obj\Debug\home5.pdb
